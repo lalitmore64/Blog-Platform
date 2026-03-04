@@ -72,9 +72,3 @@ Role-Based Access Control:
 ## 🗄️ Database Configuration
 
 ### H2 (Development)
-
-Access H2 Console:
-
-http://localhost:8080/h2-console
-
-Example Configuration:
